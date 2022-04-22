@@ -206,5 +206,5 @@ st.markdown('''
 ## Social Media
 ''')
 txt2('LinkedIn', 'https://www.linkedin.com/in/alimiraaj')
-txt2('Instagram', 'https://instagram.com/alimiraaj_')
+txt2('Instagram', 'https://instagram.com/alimiraaj_/')
 txt2('GitHub', 'https://github.com/alimiraajal/')
