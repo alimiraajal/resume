@@ -14,7 +14,7 @@ st.write('''
 image = Image.open('ali.png')
 st.image(image, width=250)
 
-st.markdown('## Summary', unsafe_allow_html=True)
+st.markdown('## Ringkasan', unsafe_allow_html=True)
 st.info('''
 - Seorang **Data Enthusiast** di bidang yang berkaitan dengan manajemen bisnis dan pemasaran. Memiliki semangat yang tinggi untuk belajar *data science* dan *data analytics*. 
 - Memiliki pengetahun dalam **pengolahan data** `(Python, Pandas)` dan **Data Visualization** `(Matplotlib, Seaborn, dan Data Studio Google)` untuk menunjang pengambilan keputusan bisnis di tingkat manajemen.
@@ -46,13 +46,13 @@ st.markdown("""
         <a class="nav-link" href="#prestasi-dan-penghargaan">Prestasi dan Penghargaan</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#pelatihan">Skills</a>
+        <a class="nav-link" href="#skills">Skills</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#skills">Pelatihan</a>
+        <a class="nav-link" href="#pelatihan">Pelatihan</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#social-media">Sosial Media</a>
+        <a class="nav-link" href="#sosial-media">Sosial Media</a>
       </li>
     </ul>
   </div>
@@ -204,7 +204,7 @@ txt3('Machine Learning', '`scikit-learn`')
 
 #####################
 st.markdown('''
-## Social Media
+## Sosial Media
 ''')
 txt2('LinkedIn', 'https://www.linkedin.com/in/alimiraaj')
 txt2('Instagram', 'https://instagram.com/alimiraaj_/')
