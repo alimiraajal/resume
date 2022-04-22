@@ -33,23 +33,23 @@ st.markdown("""
   </button>
   <div class="collapse navbar-collapse" id="navbarNav">
     <ul class="navbar-nav">
-      <li class="nav-item active">
-        <a class="nav-link disabled" href="/">Home <span class="sr-only">(current)</span></a>
+      <li class="nav-item">
+        <a class="nav-link" href="#pendidikan">Pendidikan</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#education">Pendidikan</a>
+        <a class="nav-link" href="#pengalaman-kerja">Pengalaman Kerja</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#work-experience">Pengalaman Kerja</a>
+        <a class="nav-link" href="#pengalaman-organisasi">Pengalaman Organisasi</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#work-experience2">Pengalaman Organisasi</a>
+        <a class="nav-link" href="#prestasi-dan-penghargaan">Prestasi dan Penghargaan</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#bioinformatics-tools">Prestasi dan Penghargaan</a>
+        <a class="nav-link" href="#pelatihan">Skills</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#bioinformatics-tools2">Pelatihan</a>
+        <a class="nav-link" href="#skills">Pelatihan</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#social-media">Sosial Media</a>
