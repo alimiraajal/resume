@@ -184,6 +184,7 @@ st.markdown('''
 ''')
 txt4('Udemy', 'Data Science Course 2022: Complete Data Science Bootcamp', '**2022**')
 txt4('DQLab', 'Data Analyst Project: Business Decision Research', '**2022**')
+txt4('Rakamin', 'Rakamin Trial Class Awarded with Excellent Grade','**2022**')
 txt4('DQLab', 'Data Analyst Python Track','**2022**')
 txt4('Udemy', 'SQL - MySQL for Data Analytics and Business Intelligence', '**2022**')
 txt4('SkillUp', 'Business Analytics with Excel','**2020**')
