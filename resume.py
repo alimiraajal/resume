@@ -99,7 +99,7 @@ st.markdown('''
 txt('**Sarjana Ekonomi** (Manajemen Pemasaran), Universitas Negeri Semarang, Indonesia',
 '**2017-2022**')
 st.markdown('''
-- IPK: `3.77`
+- IPK: `3.78`
 - Judul Skripsi `Pengaruh Word of Mouth dalam Memediasi Service Quality dan Customer Satisfaction Terhadap Switching Intention : Studi pada Taksi Bluebird di Kota Semarang`.
 ''')
 
