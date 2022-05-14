@@ -108,9 +108,10 @@ st.markdown('''
 ## Pengalaman Kerja
 ''')
 
-txt('**Customer Success Freelancer**, DQLab - Universitas Multimedia Nusantara',
+txt('**Customer Success, Teaching Assistant FGA Digitalent Kominfo**, DQLab - Universitas Multimedia Nusantara',
 '**2022-Sekarang**')
 st.markdown('''
+- Memandu `live session` dan memonitor group discussion program FGA `Digitalent Kominfo`
 - `Menangani komplain` yang disampaikan oleh member DQLab dan menjawab pertanyaan terkait kursus DQLab. 
 - Memandu `sesi konsultasi` member Prakerja yang mengambil kursus di DQLab.
 - Melakukan `prospek` terhadap pelanggan yang potensial menjadi member premium DQLab.
